@@ -1,5 +1,4 @@
-
-* {
+  * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -817,9 +816,7 @@
     .footer-bottom .wrapper { margin-block-end: 0; }
   
   }
-  .w-100 {
-    width: 340px; 
-  }
+  
   
   @media (min-width: 992px) {
   
